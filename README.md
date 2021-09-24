@@ -1,7 +1,7 @@
 # Useful-C-Functions
 Just some useful C functions for myself
 
-# Assembly 
+# x86 Assembly 
 ```assembly
 +--------+------------------------------+-------------+--------------------+
 |Instr   | Description                  | signed-ness | Flags              |
